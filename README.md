@@ -1,6 +1,6 @@
 # Stuwise Loan Repayment Planner
 
-A new Flutter project.
+Stuwise" is a Flutter application designed to simplify and personalize the management of student loan repayments. This tool integrates tailored repayment strategies with educational resources to enhance financial literacy and empower users in managing their student loans efficiently.
 
 ## Getting Started
 
